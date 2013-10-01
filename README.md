@@ -15,28 +15,28 @@ Kevin Hakanson is an application architect for Thomson Reuters where he is focus
 
 Is your web application a tightly coupled, DOM event handler mess?  Use techniques from the Enterprise Integration Patterns book to build better components.  Concepts including message, publish-subscribe channel, request-reply and message filter will be demonstrated in JavaScript (along with corresponding tests) using the OpenAjax Hub.
 
-* Twin Cities Code Camp 11 (October 8-9th, 2011) ( [presentation][4], [code][12] )
+* Twin Cities Code Camp 11 (8-9 October 2011) ( [presentation][4], [code][12] )
 
 ## HTTP Potpourri
 
 Embracing HTTP is an important property of well constructed ReSTful and web apis. Every web developer is familiar with GET and POST, 200 and 404, Accept and Content-Type; but what about 207 and 413, OPTIONS and PROPFIND, Transfer-Encoding and X-File-Size? This session will be based on usage of various HTTP methods, headers and status codes drawn from the development of large scale, web applications. Examples will include raw HTTP, mixed in with JavaScript and ASP.NET MVC code.
 
-* Twin Cities Code Camp 12 (April 14-15th, 2012) ( [presentation][6] )
+* Twin Cities Code Camp 12 (14-15 April 2012) ( [presentation][6] )
 
 ## Developer's Guide to JavaScript and Web Cryptography
 
 The increasing capabilities and performance of the web platform allow for more feature-rich user experiences. How can JavaScript based applications utilize information security and cryptography principles? This session will explore the current state of JavaScript and Web Cryptography. We will review some basic concepts and definitions, discuss the role of TLS/SSL, show some working examples that apply cryptography to real-world use cases and take a peek at the upcoming W3C WebCryptoAPI. Code samples will use CryptoJS in the browser and the Node.js Crypto module on the server.  An extended example will secure the popular TodoMVC project using PBKDF2 for key generation, HMAC for data integrity and AES for encryption.
 
-* Twin Cities Code Camp 14 (April 27th, 2013) ( [presentation][7], [video][5], [demo][13]  )
-* JavaScriptMN Monthly Meetup (May 30, 2013) ( [presentation][8] )
-* Iowa Code Camp 11 (June 8, 2013) ( [presentation][9] )
-* Minnesota Developers Conference 2013 (September. 26, 2013) ( [presentation][10] )
+* Twin Cities Code Camp 14 (27 April 2013) ( [presentation][7], [video][5], [demo][13] )
+* JavaScriptMN Monthly Meetup (30 May 2013) ( [presentation][8] )
+* Iowa Code Camp 11 (8 June 2013) ( [presentation][9] )
+* Minnesota Developers Conference 2013 (26 September 2013) ( [presentation][10] )
 
 ## A Humorous Comparison of Software Development with Star Wars: The Clone Wars
 (lightning talk)
 
-* Thomson Reuters Eagan Technology Unconference (September 6, 2013)
-* JavaScriptMN Monthly Meetup (May 30, 2013)
+* Thomson Reuters Eagan Technology Unconference (6 September 2013)
+* JavaScriptMN Monthly Meetup (26 September 2013)
 
 ## Internationalize your JavaScript Application: Prepare for "the next billion" internet users.
 
@@ -44,8 +44,8 @@ Are you prepared for "the next billion" internet users, most of whom don't use E
 
 This session will explore the globalization (internationalization and localization) of JavaScript based applications. It will look at the ECMAScript Internationalization API and popular open source projects like AngularJS, messageformat.js and jQuery Globalize.
 
-* Thomson Reuters Eagan Technology Unconference (September 6, 2013)  ( [presentation][11] )
-* Twin Cities Code Camp 15 (Oct. 19th, 2013)
+* Thomson Reuters Eagan Technology Unconference (6 September 2013)  ( [presentation][11] )
+* Twin Cities Code Camp 15 (19 October 2013)
 
 
 
