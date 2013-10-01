@@ -15,7 +15,7 @@ Kevin Hakanson is an application architect for Thomson Reuters where he is focus
 
 Is your web application a tightly coupled, DOM event handler mess?  Use techniques from the Enterprise Integration Patterns book to build better components.  Concepts including message, publish-subscribe channel, request-reply and message filter will be demonstrated in JavaScript (along with corresponding tests) using the OpenAjax Hub.
 
-* Twin Cities Code Camp 11 (October 8-9th, 2011) ( [presentation][4] )
+* Twin Cities Code Camp 11 (October 8-9th, 2011) ( [presentation][4], [code][12] )
 
 ## HTTP Potpourri
 
@@ -27,7 +27,7 @@ Embracing HTTP is an important property of well constructed ReSTful and web apis
 
 The increasing capabilities and performance of the web platform allow for more feature-rich user experiences. How can JavaScript based applications utilize information security and cryptography principles? This session will explore the current state of JavaScript and Web Cryptography. We will review some basic concepts and definitions, discuss the role of TLS/SSL, show some working examples that apply cryptography to real-world use cases and take a peek at the upcoming W3C WebCryptoAPI. Code samples will use CryptoJS in the browser and the Node.js Crypto module on the server.  An extended example will secure the popular TodoMVC project using PBKDF2 for key generation, HMAC for data integrity and AES for encryption.
 
-* Twin Cities Code Camp 14 (April 27th, 2013) ( [presentation][7], [video][5]  )
+* Twin Cities Code Camp 14 (April 27th, 2013) ( [presentation][7], [video][5], [demo][13]  )
 * JavaScriptMN Monthly Meetup (May 30, 2013) ( [presentation][8] )
 * Iowa Code Camp 11 (June 8, 2013) ( [presentation][9] )
 * Minnesota Developers Conference 2013 (September. 26, 2013) ( [presentation][10] )
@@ -60,5 +60,5 @@ This session will explore the globalization (internationalization and localizati
 [9]: https://docs.google.com/presentation/d/1duucrW1Df5GgpzxUJp6RO-PminSYCDQKbSvHZYU4Uyw/pub?start=false&loop=false&delayms=3000
 [10]: https://docs.google.com/presentation/d/1dpuhK96oyWndiiY9WLAFiEKFurIppv2mvS1WHVFbfqQ/pub?start=false&loop=false&delayms=3000
 [11]: https://docs.google.com/presentation/d/18WgfvLWPFtaQaWcUS6LF4-NXFJX0dkEbFCqvG2k352I/pub?start=false&loop=false&delayms=3000
-
-
+[12]: https://github.com/hakanson/tccc11
+[13]: http://jswebcrypto.azurewebsites.net/demo.html#/
