@@ -51,7 +51,7 @@ This session will explore the globalization (internationalization and localizati
 
 [1]: https://twitter.com/hakanson
 [2]: https://www.linkedin.com/in/kevinhakanson
-[3]: stackoverflow.com/users/22514/kevin-hakanson
+[3]: http://stackoverflow.com/users/22514/kevin-hakanson
 [4]: https://docs.google.com/presentation/d/1h95HJrrijsqNPvteAO4oo9NkcogfJWE4zS4MDUJJluo/pub?start=false&loop=false&delayms=3000
 [5]: https://www.youtube.com/watch?v=iQ0PSR8xyGQ
 [6]: https://docs.google.com/presentation/d/1hbUdAj1BrRVRgYK-_LR2cbG3M88HfFQwzhYFCxW-kqk/pub?start=false&loop=false&delayms=3000
