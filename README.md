@@ -15,13 +15,11 @@ Kevin Hakanson is an application architect for Thomson Reuters where he is focus
 
 ### Internationalize your JavaScript Application: Prepare for "the next billion" internet users.
 
-Are you prepared for "the next billion" internet users, most of whom don't use English as their primary language?
+Are you prepared for "the next billion" internet users, most of whom don't use English as their primary language?  This session will explore the globalization (internationalization and localization) of JavaScript based applications. It will look at the ECMAScript Internationalization API and popular open source projects like AngularJS, messageformat.js, jQuery Globalize and twitter-cldr-js.  Topics will include cultures/locales, character encoding, number formatting, date formatting, choice/plural formatting and translations.
 
-This session will explore the globalization (internationalization and localization) of JavaScript based applications. It will look at the ECMAScript Internationalization API and popular open source projects like AngularJS, messageformat.js and jQuery Globalize.
-
-* Thomson Reuters Eagan Technology Unconference (6 September 2013)  ( [presentation][11] )
+* Thomson Reuters Eagan Technology Unconference (6 September 2013)  ( short [presentation][11] )
 * Twin Cities Code Camp 15 (19 October 2013)  ( [presentation][14] )
-* Iowa Code Camp 12 (2 November 2013)
+* Iowa Code Camp 12 (2 November 2013)  ( [presentation][15] )
 
 ### A Humorous Comparison of Software Development with Star Wars: The Clone Wars
 (lightning talk)
@@ -80,3 +78,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [12]: https://github.com/hakanson/tccc11
 [13]: http://jswebcrypto.azurewebsites.net/demo.html#/
 [14]: https://docs.google.com/presentation/d/1AbWHPOeNTL9w5nddBrRQ5f-3dJ1gp_JPtmHinLq9K80/pub?start=false&loop=false&delayms=3000
+[15]: https://docs.google.com/presentation/d/1ZA8dp-SsXXqjKyFxsnVDrGcdoo0NaqE8dz-DCB8wA2M/pub?start=false&loop=false&delayms=3000
