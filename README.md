@@ -13,13 +13,19 @@ Kevin Hakanson is an application architect for Thomson Reuters where he is focus
 
 ---
 
+### Scaling Agility from the Trenches
+
+Let’s start a conference with a conversation. Instead of an opening talk, Twin Cities agile practitioners will share a fishbowl with coaches in a free-for-all discussion around the good the bad and the ugly of scaling agility instead of simply adding more process. Stop back for more details or stop in and enjoy the (fishbowl) madness.
+
+* Agile Day Twin Cities 2013 (15 November 2013) ( panel participant; facilitated by David Hussman )
+ 
 ### Internationalize your JavaScript Application: Prepare for "the next billion" internet users.
 
 Are you prepared for "the next billion" internet users, most of whom don't use English as their primary language?  This session will explore the globalization (internationalization and localization) of JavaScript based applications. It will look at the ECMAScript Internationalization API and popular open source projects like AngularJS, messageformat.js, jQuery Globalize and twitter-cldr-js.  Topics will include cultures/locales, character encoding, number formatting, date formatting, choice/plural formatting and translations.
 
 * Thomson Reuters Eagan Technology Unconference (6 September 2013)  ( short [presentation][11] )
 * Twin Cities Code Camp 15 (19 October 2013)  ( [presentation][14] )
-* Iowa Code Camp 12 (2 November 2013)  ( [presentation][15] )
+* Iowa Code Camp 12 (2 November 2013)  ( [presentation][15], [video][16] )
 
 ### A Humorous Comparison of Software Development with Star Wars: The Clone Wars
 (lightning talk)
@@ -34,6 +40,7 @@ The increasing capabilities and performance of the web platform allow for more f
 * Twin Cities Code Camp 14 (27 April 2013) ( [presentation][7], [video][5], [demo][13] )
 * JavaScriptMN Monthly Meetup (30 May 2013) ( [presentation][8] )
 * Iowa Code Camp 11 (8 June 2013) ( [presentation][9] )
+* Thomson Reuters Legal Market Dev Tech Forum Series (11 July 2013)
 * Minnesota Developers Conference 2013 (26 September 2013) ( [presentation][10] )
 
 ### HTTP Potpourri
@@ -79,3 +86,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [13]: http://jswebcrypto.azurewebsites.net/demo.html#/
 [14]: https://docs.google.com/presentation/d/1AbWHPOeNTL9w5nddBrRQ5f-3dJ1gp_JPtmHinLq9K80/pub?start=false&loop=false&delayms=3000
 [15]: https://docs.google.com/presentation/d/1ZA8dp-SsXXqjKyFxsnVDrGcdoo0NaqE8dz-DCB8wA2M/pub?start=false&loop=false&delayms=3000
+[16]: http://www.youtube.com/watch?v=h3p8cGOZ8CU
