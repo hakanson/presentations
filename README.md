@@ -1,15 +1,11 @@
-presentations
+Presentations
 =============
 
 Descriptions and links to various presentations from Kevin Hakanson.
 
 ## Biography
 
-Kevin Hakanson is an application architect for Thomson Reuters where he is focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
-
-* [Twitter][1]
-* [LinkedIn][2]
-* [Stackoverflow][3]
+[Kevin Hakanson][17] ([@hakanson][1]) is an application architect for Thomson Reuters where he is focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
 
@@ -28,10 +24,11 @@ Are you prepared for "the next billion" internet users, most of whom don't use E
 * Iowa Code Camp 12 (2 November 2013)  ( [presentation][15], [video][16] )
 
 ### A Humorous Comparison of Software Development with Star Wars: The Clone Wars
-(lightning talk)
+Lightning talk style presentation describing software development using references from Star Wars: The Clone Wars. ( [screencast][18] )
 
 * Thomson Reuters Eagan Technology Unconference (6 September 2013)
 * JavaScriptMN Monthly Meetup (26 September 2013)
+* Iowa Code Camp 12 (2 November 2013)
 
 ### Developer's Guide to JavaScript and Web Cryptography
 
@@ -87,3 +84,5 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [14]: https://docs.google.com/presentation/d/1AbWHPOeNTL9w5nddBrRQ5f-3dJ1gp_JPtmHinLq9K80/pub?start=false&loop=false&delayms=3000
 [15]: https://docs.google.com/presentation/d/1ZA8dp-SsXXqjKyFxsnVDrGcdoo0NaqE8dz-DCB8wA2M/pub?start=false&loop=false&delayms=3000
 [16]: http://www.youtube.com/watch?v=h3p8cGOZ8CU
+[17]: http://about.me/kevin.hakanson
+[18]: http://youtu.be/nIS-XrNrv-0
