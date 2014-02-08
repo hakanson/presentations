@@ -34,7 +34,8 @@ Are you prepared for "the next billion" internet users, most of whom don't use E
 * Thomson Reuters Eagan Technology Unconference (6 September 2013)  ( short [presentation][11] )
 * Twin Cities Code Camp 15 (19 October 2013)  ( [presentation][14] )
 * Iowa Code Camp 12 (2 November 2013)  ( [presentation][15], [video][16] )
-
+* Google DevFest Twin Cities (8 February 2014) ( [presentation][19], [demo][20] )
+ 
 ### A Humorous Comparison of Software Development with Star Wars: The Clone Wars
 Lightning talk style presentation describing software development using references from Star Wars: The Clone Wars. ( [screencast][18] )
 
@@ -99,3 +100,5 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [16]: http://www.youtube.com/watch?v=h3p8cGOZ8CU
 [17]: http://about.me/kevin.hakanson
 [18]: http://youtu.be/nIS-XrNrv-0
+[19]: https://docs.google.com/presentation/d/1MeQzuoyrPulLcyv_eOCoVrfHvs5tQATO0YLH2HyG-bg/pub?start=false&loop=false&delayms=3000
+[20]: http://jsi18n.azurewebsites.net/demo.html
