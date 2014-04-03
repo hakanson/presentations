@@ -19,7 +19,7 @@ We will start with a blank screen, adding color and graphics elements like lines
 
 You will leave this session with a basic knowledge of SVG concepts, how to programmatically generate SVG using JavaScript, and how to make your SVG creation printer friendly.
 
-* *under development*
+* Twin Cities Code Camp 16 (5 April 2014) 
 
 ### Scaling Agility from the Trenches
 
