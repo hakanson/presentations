@@ -19,7 +19,7 @@ We will start with a blank screen, adding color and graphics elements like lines
 
 You will leave this session with a basic knowledge of SVG concepts, how to programmatically generate SVG using JavaScript, and how to make your SVG creation printer friendly.
 
-* Twin Cities Code Camp 16 (5 April 2014) 
+* Twin Cities Code Camp 16 (5 April 2014) ( [code][21] )
 
 ### Scaling Agility from the Trenches
 
@@ -102,3 +102,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [18]: http://youtu.be/nIS-XrNrv-0
 [19]: https://docs.google.com/presentation/d/1MeQzuoyrPulLcyv_eOCoVrfHvs5tQATO0YLH2HyG-bg/pub?start=false&loop=false&delayms=3000
 [20]: http://jsi18n.azurewebsites.net/demo.html
+[21]: https://github.com/hakanson/tccc16
