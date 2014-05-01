@@ -9,6 +9,16 @@ Descriptions and links to various presentations from Kevin Hakanson.
 
 ---
 
+### Securing TodoMVC Using the Web Cryptography API
+
+The open source TodoMVC project implements a Todo application using popular JavaScript MV* frameworks. Some of the implementations add support for compile to JavaScript languages, module loaders and real time backends. This presentation will demonstrate a TodoMVC implementation which adds support for the forthcoming W3C Web Cryptography API, as well as review some key cryptographic concepts and definitions.
+
+Instead of storing the Todo list as plaintext in localStorage, this “secure” TodoMVC implementation encrypts Todos using a password derived key. The PBKDF2 algorithm is used for the deriveKey operation, with getRandomValues generating a cryptographically random salt. The importKey method sets up usage of AES-CBC for both encrypt and decrypt operations. The final solution helps address item “A6-Sensitive Data Exposure” from the OWASP Top 10.
+
+With the Web Cryptography API being a recommendation in 2014, the Q&A time will likely include browser implementations and limitations, and whether JavaScript cryptography adds any value.
+
+* under development
+
 ### Make your own *Print & Play* card game using SVG and JavaScript 
 
 Want to leverage your creativity, love of board games, and web platform experience to do something different?  Turn your imagination into a Print & Play card game using only a modern web browser, color printer and text editor.
