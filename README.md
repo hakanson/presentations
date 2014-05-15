@@ -45,6 +45,7 @@ Are you prepared for "the next billion" internet users, most of whom don't use E
 * Twin Cities Code Camp 15 (19 October 2013)  ( [presentation][14] )
 * Iowa Code Camp 12 (2 November 2013)  ( [presentation][15], [video][16] )
 * Google DevFest Twin Cities (8 February 2014) ( [presentation][19], [demo][20] )
+* That Conference (11-13 August 2014)
  
 ### A Humorous Comparison of Software Development with Star Wars: The Clone Wars
 Lightning talk style presentation describing software development using references from Star Wars: The Clone Wars. ( [screencast][18] )
@@ -62,7 +63,7 @@ The increasing capabilities and performance of the web platform allow for more f
 * Iowa Code Camp 11 (8 June 2013) ( [presentation][9] )
 * Thomson Reuters Legal Market Dev Tech Forum Series (11 July 2013)
 * Minnesota Developers Conference 2013 (26 September 2013) ( [presentation][10] )
-* cf.Objective() 2014 (13-16 May 2014)
+* cf.Objective() 2014 (13-16 May 2014) ( [presentation][22] )
 
 ### HTTP Potpourri
 
@@ -113,3 +114,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [19]: https://docs.google.com/presentation/d/1MeQzuoyrPulLcyv_eOCoVrfHvs5tQATO0YLH2HyG-bg/pub?start=false&loop=false&delayms=3000
 [20]: http://jsi18n.azurewebsites.net/demo.html
 [21]: https://github.com/hakanson/tccc16
+[22]: https://docs.google.com/presentation/d/1VC2yX5fEoXO2XTBpdGOMlZwFzuIu1A0PU2DpQ8fTxGs/pub?start=false&loop=false&delayms=3000
