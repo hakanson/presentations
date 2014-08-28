@@ -19,7 +19,7 @@ With the Web Cryptography API being a recommendation in 2014, any Q&A time will 
 
 * JavaScriptMN Monthly Meetup (28 August 2014)
 * Thomson Reuters Eagan Technology Unconference (5 September 2014)
-* jQuery Conference (12-13 September 2014)
+* jQuery Conference (12-13 September 2014) ( [presentation][26], [code][27], [demo][28] )
  
 ### Make your own *Print & Play* card game using SVG and JavaScript 
 
@@ -47,7 +47,7 @@ Are you prepared for "the next billion" internet users, most of whom don't use E
 * Twin Cities Code Camp 15 (19 October 2013)  ( [presentation][14] )
 * Iowa Code Camp 12 (2 November 2013)  ( [presentation][15], [video][16] )
 * Google DevFest Twin Cities (8 February 2014) ( [presentation][19], [demo][20] )
-* That Conference (11-13 August 2014)
+* That Conference (11-13 August 2014) ( [presentation][23], [code][24], [demo][25] )
  
 ### A Humorous Comparison of Software Development with Star Wars: The Clone Wars
 Lightning talk style presentation describing software development using references from Star Wars: The Clone Wars. ( [screencast][18] )
@@ -117,3 +117,9 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [20]: http://jsi18n.azurewebsites.net/demo.html
 [21]: https://github.com/hakanson/tccc16
 [22]: https://docs.google.com/presentation/d/1VC2yX5fEoXO2XTBpdGOMlZwFzuIu1A0PU2DpQ8fTxGs/pub?start=false&loop=false&delayms=3000
+[23]: https://github.com/hakanson/jsi18n/blob/gh-pages/JavaScript%20Internationalization%20(That%20Conference).pdf
+[24]: https://github.com/hakanson/jsi18n
+[25]: http://hakanson.github.io/jsi18n/
+[26]: https://docs.google.com/presentation/d/1lIMvkPXM2gsieAJ56aokX9QEKsEyTCHiHcJ8SjSU4DQ/pub?start=false&loop=false&delayms=3000
+[27]: https://github.com/hakanson/todomvc-jquery-webcryptoapi
+[28]: https://hakanson.github.io/todomvc-jquery-webcryptoapi/
