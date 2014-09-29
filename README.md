@@ -19,8 +19,9 @@ With the Web Cryptography API being a recommendation in 2014, any Q&A time will 
 
 * JavaScriptMN Monthly Meetup (28 August 2014)
 * Thomson Reuters Eagan Technology Unconference (5 September 2014)
-* jQuery Conference (12-13 September 2014) ( [presentation][26], [code][27], [demo][28] )
- 
+* jQuery Conference (12-13 September 2014) ( [presentation][26], [code][27], [demo][28], [video][29] )
+* Twin Cities Code Camp 17 (4 October 2014)
+
 ### Make your own *Print & Play* card game using SVG and JavaScript 
 
 Want to leverage your creativity, love of board games, and web platform experience to do something different?  Turn your imagination into a Print & Play card game using only a modern web browser, color printer and text editor.
@@ -123,3 +124,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [26]: https://docs.google.com/presentation/d/1lIMvkPXM2gsieAJ56aokX9QEKsEyTCHiHcJ8SjSU4DQ/pub?start=false&loop=false&delayms=3000
 [27]: https://github.com/hakanson/todomvc-jquery-webcryptoapi
 [28]: https://hakanson.github.io/todomvc-jquery-webcryptoapi/
+[29]: http://youtu.be/kqwaZ-LzDag?list=PL-0yjdC10QYpmXI3l-PGK1od4kTWOjm_A
