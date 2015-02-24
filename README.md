@@ -15,12 +15,13 @@ The OWASP Top 10 provides a list of the 10 most critical web application securit
 This session will review the OWASP Top 10 with a front-end development focus on HTML and JavaScript.  It will look at patterns to implement and others to consider avoiding.  We will also explore several built-in features of AngularJS that help secure your application.
 
 * Thomson Reuters Beyond the Edge - Ann Arbor (17 September 2014) ( [presentation][30] )
+* AngularMN Monthly Meetup (4 March 2015)
 
 ### Securing TodoMVC Using the Web Cryptography API
 
 The open source TodoMVC project implements a Todo application using popular JavaScript MV* frameworks. Some of the implementations add support for compile to JavaScript languages, module loaders and real time backends. This presentation will demonstrate a TodoMVC implementation which adds support for the forthcoming W3C Web Cryptography API, as well as review some key cryptographic concepts and definitions.
 
-Instead of storing the Todo list as plaintext in localStorage, this "secure" TodoMVC implementation encrypts Todos using a password derived key. The PBKDF2 algorithm is used for the deriveKey operation, with getRandomValues generating a cryptographically random salt. The importKey method sets up usage of AES-CBC for both encrypt and decrypt operations. The final solution helps address item "A6-Sensitive Data Exposure" from the OWASP Top 10.
+Instead of storing the Todo list as plaintext in localStorage, this "secure" TodoMVC implementation encrypts Todos using a password derived key. The PBKDF2 algorithm is used for the deriveBits operation, with getRandomValues generating a cryptographically random salt. The importKey method sets up usage of AES-CBC for both encrypt and decrypt operations. The final solution helps address item "A6-Sensitive Data Exposure" from the OWASP Top 10.
 
 With the Web Cryptography API being a recommendation in 2014, any Q&A time will likely include browser implementations and limitations, and whether JavaScript cryptography adds any value.
 
