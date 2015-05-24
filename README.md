@@ -18,6 +18,7 @@ This session will review the OWASP Top 10 with a front-end development focus on 
 * AngularMN Monthly Meetup (4 March 2015) ( [presentation][30], [video][31] )
 * Twin Cities Code Camp 18 (25 April 2015)
 * NDC Oslo (17-19 June 2015)
+* That Conference (10-12 August 2015)
 
 ### Securing TodoMVC Using the Web Cryptography API
 
