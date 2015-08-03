@@ -8,6 +8,14 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an Sr. Software Architect for Thomson Reuters where he is focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Learning to Mod Minecraft: A Father/Daughter Retrospective
+
+What do Minecraft and Blockly have in common? Minecraft is a popular, open world video game where players can build structures using digital blocks. Blockly is a open source visual programming language where students can build programs using blocks. LearnToMod combined these together to teach students how to modify Minecraft using either the Blockly visual editor or JavaScript.
+
+This session will be the retrospective of an enthusiastic father teaching his hesitant daughter (who loves Minecraft) about programming. We started with Hour of Code and pair-programmed through LearnToMod’s video lessons. What did we create? How did we like it? What would we recommend to others? Come learn about our experience and ask questions.
+
+* That Conference (10-12 August 2015) (with Audra Hakanson)
+
 ### ng-owasp: OWASP Top 10 for AngularJS Applications
 
 The OWASP Top 10 provides a list of the 10 most critical web application security risks.  How do these relate to AngularJS applications? What security vulnerabilities should developers be aware of beyond XSS and CSRF?
