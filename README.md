@@ -26,7 +26,7 @@ This session will review the OWASP Top 10 with a front-end development focus on 
 * AngularMN Monthly Meetup (4 March 2015) ( [presentation][30], [video][31] )
 * Twin Cities Code Camp 18 (25 April 2015)
 * NDC Oslo (17-19 June 2015) ( [presentation][32], [video][33] )
-* That Conference (10-12 August 2015)
+* That Conference (10-12 August 2015) ( [presentation][34] )
 
 ### Securing TodoMVC Using the Web Cryptography API
 
@@ -148,3 +148,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [31]: http://youtu.be/6uloYE87pkk
 [32]: http://www.slideshare.net/kevinhakanson/ng-owasp-ndc
 [33]: https://vimeo.com/131757758
+[34]: https://docs.google.com/presentation/d/11dCU6lJ27R5RpuMDopMvkTzzcYmNAmv4CWzv4gYRxzs/pub?start=false&loop=false&delayms=3000
