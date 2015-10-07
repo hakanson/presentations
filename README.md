@@ -14,7 +14,7 @@ What do Minecraft and Blockly have in common? Minecraft is a popular, open world
 
 This session will be the retrospective of an enthusiastic father teaching his hesitant daughter (who loves Minecraft) about programming. We started with Hour of Code and pair-programmed through LearnToMod’s video lessons. What did we create? How did we like it? What would we recommend to others? Come learn about our experience and ask questions.
 
-* That Conference (10-12 August 2015) (with Audra Hakanson)
+* That Conference (10-12 August 2015) (with Audra Hakanson) ( [presentation][35], [video][36] )
 
 ### ng-owasp: OWASP Top 10 for AngularJS Applications
 
@@ -149,3 +149,5 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [32]: http://www.slideshare.net/kevinhakanson/ng-owasp-ndc
 [33]: https://vimeo.com/131757758
 [34]: https://docs.google.com/presentation/d/11dCU6lJ27R5RpuMDopMvkTzzcYmNAmv4CWzv4gYRxzs/pub?start=false&loop=false&delayms=3000
+[35]: http://www.slideshare.net/kevinhakanson/learning-to-mod-minecraft-a-fatherdaughter-retrospective
+[36]: https://youtu.be/InbVSEA8V0U
