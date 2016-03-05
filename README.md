@@ -8,6 +8,14 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an Sr. Software Architect for Thomson Reuters where he is focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Introduction to Speech Interfaces for Web Applications
+
+Speaking with your computing device is becoming commonplace.  Most of us have used Apple's Siri, Google Now, Microsoft's Cortana, or Amazon's Alexa - but how can you speak with your web application?  The Web Speech API can enable a voice interface by adding both Speech Synthesis (Text to Speech) and Speech Recognition (Speech to Text) functionality.
+
+This session will introduce the core concepts of Speech Synthesis and Speech Recognition.  We will evaluate the current browser support and review alternative options.  See the JavaScript code and UX design considerations required to add a speech interface to your web application.  Come hear if it's as easy as it sounds?
+
+* under development
+
 ### Learning to Mod Minecraft: A Father/Daughter Retrospective
 
 What do Minecraft and Blockly have in common? Minecraft is a popular, open world video game where players can build structures using digital blocks. Blockly is a open source visual programming language where students can build programs using blocks. LearnToMod combined these together to teach students how to modify Minecraft using either the Blockly visual editor or JavaScript.
