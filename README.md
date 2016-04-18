@@ -5,7 +5,7 @@ Descriptions and links to various presentations from Kevin Hakanson.
 
 ## Biography
 
-[Kevin Hakanson][17] ([@hakanson][1]) is an Sr. Software Architect for Thomson Reuters where he is focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
+[Kevin Hakanson][17] ([@hakanson][1]) is a Sr. Software Architect for Thomson Reuters where he is focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
 ### Introduction to Speech Interfaces for Web Applications
