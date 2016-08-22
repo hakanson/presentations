@@ -15,8 +15,8 @@ Speaking with your computing device is becoming commonplace.  Most of us have us
 This session will introduce the core concepts of Speech Synthesis and Speech Recognition.  We will evaluate the current browser support and review alternative options.  See the JavaScript code and UX design considerations required to add a speech interface to your web application.  Come hear if it's as easy as it sounds?
 
 * Twin Cities Code Camp 20 (16 April 2016)
-* MinneBar 11 (23 April 2016) ( [presentation][37] )
-* Midwest JS (10-12 August 2016)
+* MinneBar 11 (23 April 2016)
+* Midwest JS (10-12 August 2016) ( [presentation][37] )
 
 ### Learning to Mod Minecraft: A Father/Daughter Retrospective
 
