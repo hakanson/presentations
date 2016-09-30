@@ -17,6 +17,7 @@ This session will introduce the core concepts of Speech Synthesis and Speech Rec
 * Twin Cities Code Camp 20 (16 April 2016)
 * MinneBar 11 (23 April 2016)
 * Midwest JS (10-12 August 2016) ( [presentation][37] )
+* Thomson Reuters Beyond the Edge - Ann Arbor (12 September 2016)
 
 ### Learning to Mod Minecraft: A Father/Daughter Retrospective
 
