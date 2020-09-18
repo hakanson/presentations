@@ -8,6 +8,14 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Adopting Multi-Cloud Services with Confidence
+
+In transitioning to multi-cloud, IT organizations have the same responsibility to provide quality service and operational security, yet have a much greater need to understand how to efficiently govern and manage these disparate cloud services.
+
+In this session, we will examine some key patterns and models taken from a Cloud Adoption Framework through a multi-cloud lens. The presentation will include a mixture of high-level guidance, examples where vocabulary and terminology differ, and opinions on when to utilize cloud-agnostic vs cloud-native technologies for strategic decisions. Attendees will leave with a better understanding of how to implement a Cloud Adoption Framework across multiple clouds and a higher level of confidence in their multi-cloud adoption plans.
+
+* The Complete Cloud Summit (15 September 2020)  ( [webinar][39] )
+
 ### Introduction to Speech Interfaces for Web Applications
 
 Speaking with your computing device is becoming commonplace.  Most of us have used Apple's Siri, Google Now, Microsoft's Cortana, or Amazon's Alexa - but how can you speak with your web application?  The Web Speech API can enable a voice interface by adding both Speech Synthesis (Text to Speech) and Speech Recognition (Speech to Text) functionality.
@@ -142,9 +150,9 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [13]: http://jswebcrypto.azurewebsites.net/demo.html#/
 [14]: https://docs.google.com/presentation/d/1AbWHPOeNTL9w5nddBrRQ5f-3dJ1gp_JPtmHinLq9K80/pub?start=false&loop=false&delayms=3000
 [15]: https://docs.google.com/presentation/d/1ZA8dp-SsXXqjKyFxsnVDrGcdoo0NaqE8dz-DCB8wA2M/pub?start=false&loop=false&delayms=3000
-[16]: http://www.youtube.com/watch?v=h3p8cGOZ8CU
+[16]: https://www.youtube.com/watch?v=h3p8cGOZ8CU
 [17]: http://about.me/kevin.hakanson
-[18]: http://youtu.be/nIS-XrNrv-0
+[18]: https://youtu.be/nIS-XrNrv-0
 [19]: https://docs.google.com/presentation/d/1MeQzuoyrPulLcyv_eOCoVrfHvs5tQATO0YLH2HyG-bg/pub?start=false&loop=false&delayms=3000
 [20]: http://jsi18n.azurewebsites.net/demo.html
 [21]: https://github.com/hakanson/tccc16
@@ -155,13 +163,14 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [26]: https://docs.google.com/presentation/d/1lIMvkPXM2gsieAJ56aokX9QEKsEyTCHiHcJ8SjSU4DQ/pub?start=false&loop=false&delayms=3000
 [27]: https://github.com/hakanson/todomvc-jquery-webcryptoapi
 [28]: https://hakanson.github.io/todomvc-jquery-webcryptoapi/
-[29]: http://youtu.be/kqwaZ-LzDag?list=PL-0yjdC10QYpmXI3l-PGK1od4kTWOjm_A
+[29]: https://youtu.be/kqwaZ-LzDag?list=PL-0yjdC10QYpmXI3l-PGK1od4kTWOjm_A
 [30]: https://docs.google.com/presentation/d/1sXeJIMAUorz-EBEvxze2FTYWDqUTulaiR8XTo2C0_BA/pub?start=false&loop=false&delayms=3000
-[31]: http://youtu.be/6uloYE87pkk
-[32]: http://www.slideshare.net/kevinhakanson/ng-owasp-ndc
+[31]: https://youtu.be/6uloYE87pkk
+[32]: https://www.slideshare.net/kevinhakanson/ng-owasp-ndc
 [33]: https://vimeo.com/131757758
 [34]: https://docs.google.com/presentation/d/11dCU6lJ27R5RpuMDopMvkTzzcYmNAmv4CWzv4gYRxzs/pub?start=false&loop=false&delayms=3000
-[35]: http://www.slideshare.net/kevinhakanson/learning-to-mod-minecraft-a-fatherdaughter-retrospective
+[35]: https://www.slideshare.net/kevinhakanson/learning-to-mod-minecraft-a-fatherdaughter-retrospective
 [36]: https://youtu.be/InbVSEA8V0U
-[37]: http://www.slideshare.net/kevinhakanson/introduction-to-speech-interfaces-for-web-applications
-[38]: http://www.slideshare.net/kevinhakanson/make-your-own-print-play-card-game-using-svg-and-java-script
+[37]: https://www.slideshare.net/kevinhakanson/introduction-to-speech-interfaces-for-web-applications
+[38]: https://www.slideshare.net/kevinhakanson/make-your-own-print-play-card-game-using-svg-and-java-script
+[39]: https://www.brighttalk.com/webinar/adopting-multi-cloud-services-with-confidence/
