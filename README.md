@@ -16,6 +16,11 @@ In this session, we will examine some key patterns and models taken from a Cloud
 
 * The Complete Cloud Summit (15 September 2020)  ( [webinar][39] )
 
+### Aumentum Cloud Strategy: Public Cloud vs. Government Cloud
+As Aumentum transitions to a cloud hosted SaaS product, the conversation about "public cloud" vs. "government cloud" is of interest to customers.  This session will review some cloud computing definitions, discuss what is commonly referred to as "government cloud," and provide a preview of the Aumentum cloud strategy.
+
+* Thomson Reuters Synergy 2019 (23-26 September 2019) ( [presentation][40] )
+
 ### Introduction to Speech Interfaces for Web Applications
 
 Speaking with your computing device is becoming commonplace.  Most of us have used Apple's Siri, Google Now, Microsoft's Cortana, or Amazon's Alexa - but how can you speak with your web application?  The Web Speech API can enable a voice interface by adding both Speech Synthesis (Text to Speech) and Speech Recognition (Speech to Text) functionality.
@@ -174,3 +179,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [37]: https://www.slideshare.net/kevinhakanson/introduction-to-speech-interfaces-for-web-applications
 [38]: https://www.slideshare.net/kevinhakanson/make-your-own-print-play-card-game-using-svg-and-java-script
 [39]: https://www.brighttalk.com/webinar/adopting-multi-cloud-services-with-confidence/
+[40]: https://www.slideshare.net/secret/7PaI49fYLA0d24
