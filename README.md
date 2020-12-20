@@ -8,13 +8,21 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Who's in your Cloud? Cloud State Monitoring
+
+When it comes to cloud operations, monitoring security and visibility are critical. Integration by other systems via Cloud APIs is one of the most powerful value drivers of the hyperscale cloud providers.
+
+In this session, we will describe Cloud State Monitoring, including why it is important and who needs awareness in your organization.  An explanation of the categories of Cloud APIs (including the management plane, control plane, and data plane) will give us background.  Specific use cases across AWS, Azure, and GCP will dive deep into various changes you might not have considered monitoring.
+
+* MN ISSA and CSA MN Joint Chapter Meeting (15 December 2020)  ( [presentation][42], [video][43] )
+
 ### Adopting Multi-Cloud Services with Confidence
 
 In transitioning to multi-cloud, IT organizations have the same responsibility to provide quality service and operational security, yet have a much greater need to understand how to efficiently govern and manage these disparate cloud services.
 
 In this session, we will examine some key patterns and models taken from a Cloud Adoption Framework through a multi-cloud lens. The presentation will include a mixture of high-level guidance, examples where vocabulary and terminology differ, and opinions on when to utilize cloud-agnostic vs cloud-native technologies for strategic decisions. Attendees will leave with a better understanding of how to implement a Cloud Adoption Framework across multiple clouds and a higher level of confidence in their multi-cloud adoption plans.
 
-* The Complete Cloud Summit (15 September 2020)  ( [webinar][39] )
+* The Complete Cloud Summit (15 September 2020)  ( [presentation][41], [video][39] )
 
 ### Aumentum Cloud Strategy: Public Cloud vs. Government Cloud
 As Aumentum transitions to a cloud hosted SaaS product, the conversation about "public cloud" vs. "government cloud" is of interest to customers.  This session will review some cloud computing definitions, discuss what is commonly referred to as "government cloud," and provide a preview of the Aumentum cloud strategy.
@@ -178,5 +186,8 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [36]: https://youtu.be/InbVSEA8V0U
 [37]: https://www.slideshare.net/kevinhakanson/introduction-to-speech-interfaces-for-web-applications
 [38]: https://www.slideshare.net/kevinhakanson/make-your-own-print-play-card-game-using-svg-and-java-script
-[39]: https://www.brighttalk.com/webinar/adopting-multi-cloud-services-with-confidence/
+[39]: https://youtu.be/wgoSzIjqT5s
 [40]: https://www.slideshare.net/secret/7PaI49fYLA0d24
+[41]: https://www.slideshare.net/kevinhakanson/adopting-multicloud-services-with-confidence
+[42]: https://www.slideshare.net/kevinhakanson/whos-in-your-cloud-cloud-state-monitoring
+[43]: https://youtu.be/a4CNQsaRPts
