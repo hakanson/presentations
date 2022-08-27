@@ -8,6 +8,26 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Sharpen your "Architecture Documentation" Saw: Architectural Decision Records (ADR) and Diagrams-as-Code
+
+All solutions implicitly have an architecture, ideally one which is both intentional and documented. The Architectural Decision Records (ADR) process distributes architectural decision-making across team members. Accelerate the time consuming process of hand drawing diagrams by rendering from a text-based source. Communicate effectively by committing both your markdown-based ADRs and text-based diagrams into your source code repository. This talk will review these techniques, provide actionable steps to adoption, and even live-code some examples.
+
+* AWS WWPS SLG/EDU xTech Solutions Architect offsite (23-24 August 2022)
+
+### Building SaaS on AWS - Multi-Tenant Data on S3
+
+In this episode we chat about best practices and patterns to adopt when dealing with [Partitioning and Isolating Multi-Tenant SaaS Data with Amazon S3](https://aws.amazon.com/blogs/apn/partitioning-and-isolating-multi-tenant-saas-data-with-amazon-s3/)
+
+* AWS Twitch Channel (3 August 2022) ( [video](https://www.youtube.com/watch?v=fryghbOuIFE) )
+
+### Accelerate building your demo web app with an AWS UI template
+
+Customer-facing builders (including AWS Solutions Architects like myself) want to create great looking demo web apps and AWS Samples.  Would you like to avoid front-end fatigue and have a working web application in moments?  Scaffolding your project using a pre-built template can be a “polyfill” for your web development skills. 
+
+This session will review the choices made for a circa 2022 template, which also works for external customers.  It starts with the open source variant of the AWS Design System (AWS UI), React, and TypeScript.  Vite is used for a lightning fast dev server and Amplify Hosting support is pre-configured. Routing, state management, testing, code quality, and more are included.  Come learn if a template like this can accelerate your next project.
+
+* Amazon WebDevCon Seattle 2022 (27-29 April 2022)
+
 ### Who's in your Cloud? Cloud State Monitoring
 
 When it comes to cloud operations, monitoring security and visibility are critical. Integration by other systems via Cloud APIs is one of the most powerful value drivers of the hyperscale cloud providers.
