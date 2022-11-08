@@ -8,6 +8,12 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Run your Go applications on the cloud (BOA104)
+
+Start building deployment pipelines for your Go applications on the cloud. You’ve been running Go applications on your machine, but how do you run these in the cloud? In this chalk talk, discuss an easy-to-deploy pipeline for the development, testing, building, and deployment of applications written in Go. Although this example is tailored to Go, it can be easily modified to deploy applications written in other languages too. Join this chalk talk to learn how to deploy your application as containers from GitHub to the cloud with AWS CodePipeline, AWS CodeBuild, AWS CDK, and AWS CodeDeploy.
+
+* AWS re:Invent 2022 (28 November 2022 - 2 December 2022)
+
 ### Sharpen your "Architecture Documentation" Saw: Architectural Decision Records (ADR) and Diagrams-as-Code
 
 All solutions implicitly have an architecture, ideally one which is both intentional and documented. The Architectural Decision Records (ADR) process distributes architectural decision-making across team members. Accelerate the time consuming process of hand drawing diagrams by rendering from a text-based source. Communicate effectively by committing both your markdown-based ADRs and text-based diagrams into your source code repository. This talk will review these techniques, provide actionable steps to adoption, and even live-code some examples.
