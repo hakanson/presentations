@@ -18,13 +18,13 @@ Resilience refers to the ability for workloads to respond and quickly recover fr
 
 This episode reviewed diagram types, when teams should create architecture diagrams, when to choose diagrams-as-code instead of presentation software or drawing tools, and sprinkled in a bit of fun.
 
-* AWS Twitch Channel (15 December 2022) ( [video](https://www.twitch.tv/videos/1679798127) )
+* AWS Twitch Channel (15 December 2022) ( [video][47] )
 
 ### Run your Go applications on the cloud (BOA104)
 
 Start building deployment pipelines for your Go applications on the cloud. You’ve been running Go applications on your machine, but how do you run these in the cloud? In this chalk talk, discuss an easy-to-deploy pipeline for the development, testing, building, and deployment of applications written in Go. Although this example is tailored to Go, it can be easily modified to deploy applications written in other languages too. Join this chalk talk to learn how to deploy your application as containers from GitHub to the cloud with AWS CodePipeline, AWS CodeBuild, AWS CDK, and AWS CodeDeploy.
 
-* AWS re:Invent 2022 (28 November 2022 - 2 December 2022)
+* AWS re:Invent 2022 (28 November 2022 - 2 December 2022) ( [presentation][45], [code][46] )
 
 ### Sharpen your "Architecture Documentation" Saw: Architectural Decision Records (ADR) and Diagrams-as-Code
 
@@ -36,7 +36,7 @@ All solutions implicitly have an architecture, ideally one which is both intenti
 
 In this episode we chat about best practices and patterns to adopt when dealing with [Partitioning and Isolating Multi-Tenant SaaS Data with Amazon S3](https://aws.amazon.com/blogs/apn/partitioning-and-isolating-multi-tenant-saas-data-with-amazon-s3/)
 
-* AWS Twitch Channel (3 August 2022) ( [video](https://www.youtube.com/watch?v=fryghbOuIFE) )
+* AWS Twitch Channel (3 August 2022) ( [video][44] )
 
 ### Accelerate building your demo web app with an AWS UI template
 
@@ -229,3 +229,7 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [41]: https://www.slideshare.net/kevinhakanson/adopting-multicloud-services-with-confidence
 [42]: https://www.slideshare.net/kevinhakanson/whos-in-your-cloud-cloud-state-monitoring
 [43]: https://youtu.be/a4CNQsaRPts
+[44]: https://www.youtube.com/watch?v=fryghbOuIFE
+[45]: https://d1.awsstatic.com/events/Summits/reinvent2022/BOA104_Run-your-Go-applications-on-the-cloud.pdf
+[46]: https://github.com/aws-samples/hello-go-cdk
+[47]: https://www.twitch.tv/videos/1679798127
