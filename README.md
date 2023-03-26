@@ -8,6 +8,12 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Build On AWS weekly - Go Apps on AWS - CDK 💜 Go
+
+This episode reviewed different options for deploying Go based services on AWS, starting with a code-based service using AWS App Runner, then container-based using CDK (also written in Go) to deploy to both Amazon Elastic Container Service (Amazon ECS) and Amazon Elastic Kubernetes Service (Amazon EKS).
+
+* AWS Twitch Channel (23 March 2023) ( [video][48] )
+
 ### Resilience on AWS
 
 Resilience refers to the ability for workloads to respond and quickly recover from failures. Workloads deployed to the AWS cloud follow the Shared Responsibility Model separating resilience “of” the cloud from workloads running “in” the cloud. Part of a workload’s responsibility is to think about resilience threat modeling, the scenarios where things could go wrong, and the cost, business, or mission impact. This session will review strategies and design considerations around resilience, and reference how some AWS Public Sector customers are building resilience into their mission-focused workloads.
@@ -233,3 +239,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [45]: https://d1.awsstatic.com/events/Summits/reinvent2022/BOA104_Run-your-Go-applications-on-the-cloud.pdf
 [46]: https://github.com/aws-samples/hello-go-cdk
 [47]: https://www.twitch.tv/videos/1679798127
+[48]: https://www.twitch.tv/videos/1773342293
