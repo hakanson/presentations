@@ -44,8 +44,8 @@ Start building deployment pipelines for your Go applications on the cloud. Youâ€
 All solutions implicitly have an architecture, ideally one which is both intentional and documented. The Architectural Decision Records (ADR) process distributes architectural decision-making across team members. Accelerate the time consuming process of hand drawing diagrams by rendering from a text-based source. Communicate effectively by committing both your markdown-based ADRs and text-based diagrams into your source code repository. This talk will review these techniques, provide actionable steps to adoption, and even live-code some examples.
 
 * AWS WWPS SLG/EDU xTech Solutions Architect offsite (23-24 August 2022)
-* Open Source North (24 May 2023) ( [presentation][49])
-* Minnesota Developers Conference 2023 (3 October 2023)
+* Open Source North (24 May 2023) ( [presentation][49] )
+* Minnesota Developers Conference 2023 (3 October 2023) ( [presentation][52], [code][53] )
 
 ### Building SaaS on AWS - Multi-Tenant Data on S3
 
@@ -249,5 +249,8 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [46]: https://github.com/aws-samples/hello-go-cdk
 [47]: https://www.twitch.tv/videos/1679798127
 [48]: https://www.twitch.tv/videos/1773342293
+[49]: https://www.slideshare.net/kevinhakanson/sharpen-your-architectural-documentation-saw
 [50]: https://catalog.workshops.aws/cedar-policy-language-in-action
 [51]: https://github.com/cedar-policy/cedar-examples/tree/main/cedar-policy-language-in-action
+[52]: https://github.com/hakanson/mdc2023/blob/main/Sharpen%20your%20%22Architectural%20Documentation%22%20Saw.pdf
+[53]: https://github.com/hakanson/mdc2023]
