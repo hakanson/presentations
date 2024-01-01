@@ -46,6 +46,7 @@ All solutions implicitly have an architecture, ideally one which is both intenti
 * AWS WWPS SLG/EDU xTech Solutions Architect offsite (23-24 August 2022)
 * Open Source North (24 May 2023) ( [presentation][49] )
 * Minnesota Developers Conference 2023 (3 October 2023) ( [presentation][52], [code][53] )
+* Twin Cities .NET User Group (7 December 2023)
 
 ### Building SaaS on AWS - Multi-Tenant Data on S3
 
