@@ -8,6 +8,12 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Using Cedar to secure application authorization (OPS301)
+
+Cedar is an open source authorization policy language designed to be ergonomic, fast, safe, and analyzable. Rather than embedding authorization logic in an application’s code, developers write that logic as Cedar policies and delegate access decisions to Cedar’s evaluation engine. Cedar supports common authorization use cases with readable policies, naturally supporting concepts from role-based, attribute-based, and relation-based access control models. In this chalk talk, learn how to build a secure application delegating all authorization decisions to Cedar, and then see how to use Cedar together with Amazon Verified Permissions to control access to Amazon API Gateway APIs.
+
+* AWS Summit Washington, DC (26 June 2024 - 27 June 2024)
+
 ### Cedar policy language in action
 
 Cedar is a language for defining permissions as policies that describe who should have access to what. Amazon Verified Permissions and AWS Verified Access use Cedar to define fine-grained permissions for applications and end users. In this builders’ session, first learn how to write Cedar policies. Then, take on a challenge problem building the set of policies representing a full application. This session uses open source Cedar and the free online playground, so there is no need to install anything or have an AWS account. You must bring your laptop to participate.
