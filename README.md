@@ -8,6 +8,21 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] ([@hakanson][1]) is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Harnessing generative AI to create & understand architecture diagrams (ARC308)
+
+This builders’ session explores using generative AI to create and comprehend architecture diagrams, a critical aspect of software design and communication. Diagrams are often image data, custom formats of drawing programs, or text-based representations from diagram-as-code tools. Techniques are used from two different layers of the generative AI stack, Amazon Q Developer and foundational models on Amazon Bedrock. Chat-based workflows first understand and analyze existing diagrams, and then ask follow-up questions about best practices. New diagrams are created using diagram-as-code formats. Leave with practical strategies for harnessing generative AI in your software architecture workflows. You must bring your laptop to participate.
+
+* AWS re:Invent 2023 (2 December 2024 - 6 December 2024)
+
+### Fine-Grained Authorization in Modern Software Applications
+
+Authentication (AuthN) and Authorization (AuthZ) are critical for most software applications. The increased adoption of standardized frameworks for AuthN has improved overall security posture. “Broken Authentication” was #2 risk on the OWASP Top 10:2017 list but slid in 2021 to be part of a rescoped #7. AuthZ is trending the wrong direction with “Broken Access Control” the #1 security risk on 2021 list. This session discusses how open-source policy languages and evaluation engines can improve access control in applications.
+
+The key acronyms are reviewed for background: JWT concepts (claims, scopes); access control models (RBAC, ABAC, ReBAC), data-flow model of XACML (PAP, PDP, PEP, PIP). Examples of applications requiring fine-grained authorization are modeled using different open-source solutions (Cedar, OpenFGA, OPA) focusing on their policy language and evaluation engine integration. This session spans high-level architecture to low-level code, and sprinkles humor (and acronyms) throughout.
+
+* That Conference (30 July 2024 - 1 August 2024) ( [presentation][54], [code][55] )
+* AWS NAMER Tech Summit 2024 (17 September 2024 - 19 September 2024)
+
 ### Using Cedar to secure application authorization (OPS301)
 
 Cedar is an open source authorization policy language designed to be ergonomic, fast, safe, and analyzable. Rather than embedding authorization logic in an application’s code, developers write that logic as Cedar policies and delegate access decisions to Cedar’s evaluation engine. Cedar supports common authorization use cases with readable policies, naturally supporting concepts from role-based, attribute-based, and relation-based access control models. In this chalk talk, learn how to build a secure application delegating all authorization decisions to Cedar, and then see how to use Cedar together with Amazon Verified Permissions to control access to Amazon API Gateway APIs.
@@ -261,3 +276,5 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [51]: https://github.com/cedar-policy/cedar-examples/tree/main/cedar-policy-language-in-action
 [52]: https://github.com/hakanson/mdc2023/blob/main/Sharpen%20your%20%22Architectural%20Documentation%22%20Saw.pdf
 [53]: https://github.com/hakanson/mdc2023]
+[54]: https://github.com/hakanson/that2024/blob/main/Fine-Grained%20Authorization%20in%20Modern%20Software%20Applications.pdf
+[55]: https://github.com/hakanson/that2024
