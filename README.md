@@ -5,14 +5,14 @@ Descriptions and links to various presentations from Kevin Hakanson.
 
 ## Biography
 
-[Kevin Hakanson][17] ([@hakanson][1]) is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
+[Kevin Hakanson][17] is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
 ### Harnessing generative AI to create & understand architecture diagrams (ARC308)
 
 This builders’ session explores using generative AI to create and comprehend architecture diagrams, a critical aspect of software design and communication. Diagrams are often image data, custom formats of drawing programs, or text-based representations from diagram-as-code tools. Techniques are used from two different layers of the generative AI stack, Amazon Q Developer and foundational models on Amazon Bedrock. Chat-based workflows first understand and analyze existing diagrams, and then ask follow-up questions about best practices. New diagrams are created using diagram-as-code formats. Leave with practical strategies for harnessing generative AI in your software architecture workflows. You must bring your laptop to participate.
 
-* AWS re:Invent 2023 (2 December 2024 - 6 December 2024)
+* AWS re:Invent 2023 (2 December 2024 - 6 December 2024) ( [workshop][56] )
 
 ### Fine-Grained Authorization in Modern Software Applications
 
@@ -278,3 +278,4 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [53]: https://github.com/hakanson/mdc2023]
 [54]: https://github.com/hakanson/that2024/blob/main/Fine-Grained%20Authorization%20in%20Modern%20Software%20Applications.pdf
 [55]: https://github.com/hakanson/that2024
+[56]: https://catalog.workshops.aws/generative-ai-architecture-diagrams
