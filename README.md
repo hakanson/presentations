@@ -14,6 +14,18 @@ Want to secure generative AI applications accessing your organizational data? Le
 
 * AWS re:Inforce 2025 (16 June 2025 - 18 June 2025)
 
+### Designing complex authorization systems with Cedar (SEC402)
+
+Imagine delegating access to your data to multiple devices or individuals, who might do the same to you. Scary? Improbable? It’s real for industries like healthcare, where data access extends beyond humans to devices and third parties. Managing authorization becomes complex, making expression, evaluation, and governance tedious. This chalk talk explores how Cedar, an open source language, helps shape models allowing all-party access to sensitive data through impersonation or delegation, with limit of time, and consent to align with privacy-by-design principles. By exploring examples in this talk, developers and architects gain knowledge to build secure, compliant, and trusted authorization systems.
+
+* AWS Summit Washington, DC (10 June 2025 - 11 June 2025)
+
+### Containers or serverless functions: A path for cloud-native success (SVS201)
+
+In this session, explore the fundamental differences between containers and serverless functions. Investigate real-world scenarios to gain insights into choosing the right approach based on workload requirements, deployment scenarios, and operations. Understand the architectural, scalability, and operational contrasts between these pivotal cloud technologies. Finally, discover synergies in combining them to leverage their collective strengths. Leave with a clear understanding of when to use containers, serverless functions, or a hybrid model for your application needs.
+
+* AWS Summit Washington, DC (10 June 2025 - 11 June 2025) (with Pranusha Manchala)
+
 ### A Conversation with your Architecture
 
 Software and architecture diagrams are critical tools as they help developers and stakeholders understand complex systems. What if you could have a conversation with your diagrams? This session explores how generative AI can facilitate meaningful conversations with your architecture to gain deeper insights, make decisions, generate diagrams, and even generate infrastructure code. Leave with both a theoretical understanding and practical implementation guidance for using generative AI in architecture documentation and analysis.
