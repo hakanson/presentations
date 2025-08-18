@@ -8,6 +8,12 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Architecture diagrams with generative AI: Leveraging AI agents (ARC306)
+
+Master the use of generative AI-powered software agents for creating and analyzing architecture diagrams and technical documentation. Learn to work with various diagram formats, from images to diagram-as-code representations. Explore chat-based workflows that leverage Model Context Protocol (MCP) servers for enhanced capabilities. Practice integrating custom context rules, example diagrams, and enterprise knowledge sources. Gain hands-on experience building effective architect profiles for AI-powered documentation workflows.
+
+* AWS re:Invent 2025 (1 December 2025 - 5 December 2025)
+
 ### Securing GenAI apps: Fine-grained access control for Bedrock Agents (IAM451)
 
 Want to secure generative AI applications accessing your organizational data? Learn how to implement intelligent access controls for Amazon Bedrock-powered applications accessing your organizational data. In this builders' session, you'll build a defense-in-depth approach that combines authentication using Amazon Cognito and fine-grained authorization with Amazon Verified Permissions to secure access for Bedrock AI agents. Implement layered permissions that protect sensitive data without limiting your GenAI capabilities. You must bring your laptop to participate.
