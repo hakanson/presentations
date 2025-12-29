@@ -8,17 +8,23 @@ Descriptions and links to various presentations from Kevin Hakanson.
 [Kevin Hakanson][17] is an experienced Software Architect focused on highly scalable web applications, especially the JavaScript and security aspects. His background includes both .NET and Java, but he is most nostalgic about Lotus Notes. He has been developing professionally since 1994 and holds a Master’s degree in Software Engineering. When not staring at a computer screen, he is probably staring at another screen, either watching TV or playing video games with his family.
 
 ---
+### Secure and build apps in minutes with Amazon Verified Permissions (SEC312)
+
+Learn how to implement robust API authorization in applications within minutes using the new Amazon Verified Permissions Express Toolkit. Move beyond complex, embedded authorization logic that becomes unmanageable over time. In this hands-on session, you'll build a secure API layer using policy-based authorization, separating security concerns from business logic. By the end of this session, you'll understand how to define fine-grained permissions using Cedar policies, integrate with identity providers, and enforce consistent authorization across your express.js application — all while writing minimal code.
+
+* AWS re:Invent 2025 (1 December 2025 - 5 December 2025) ( [workshop][59] )
+
 ### Architecture diagrams with generative AI: Leveraging AI agents (ARC306)
 
 Master the use of generative AI-powered software agents for creating and analyzing architecture diagrams and technical documentation. Learn to work with various diagram formats, from images to diagram-as-code representations. Explore chat-based workflows that leverage Model Context Protocol (MCP) servers for enhanced capabilities. Practice integrating custom context rules, example diagrams, and enterprise knowledge sources. Gain hands-on experience building effective architect profiles for AI-powered documentation workflows.
 
-* AWS re:Invent 2025 (1 December 2025 - 5 December 2025)
+* AWS re:Invent 2025 (1 December 2025 - 5 December 2025) ( [workshop][58] )
 
 ### Securing GenAI apps: Fine-grained access control for Bedrock Agents (IAM451)
 
 Want to secure generative AI applications accessing your organizational data? Learn how to implement intelligent access controls for Amazon Bedrock-powered applications accessing your organizational data. In this builders' session, you'll build a defense-in-depth approach that combines authentication using Amazon Cognito and fine-grained authorization with Amazon Verified Permissions to secure access for Bedrock AI agents. Implement layered permissions that protect sensitive data without limiting your GenAI capabilities. You must bring your laptop to participate.
 
-* AWS re:Inforce 2025 (16 June 2025 - 18 June 2025)
+* AWS re:Inforce 2025 (16 June 2025 - 18 June 2025) ( [workshop][57] )
 
 ### Designing complex authorization systems with Cedar (SEC402)
 
@@ -309,3 +315,6 @@ In this session, you will learn the ins-and-outs of building an eCommerce site w
 [54]: https://github.com/hakanson/that2024/blob/main/Fine-Grained%20Authorization%20in%20Modern%20Software%20Applications.pdf
 [55]: https://github.com/hakanson/that2024
 [56]: https://catalog.workshops.aws/generative-ai-architecture-diagrams
+[57]: https://catalog.workshops.aws/securing-genai-app
+[58]: https://catalog.workshops.aws/architecture-diagrams-ai-agents
+[59]: https://catalog.us-east-1.prod.workshops.aws/workshops/1d87b77a-c6cd-4024-bd56-a8e4517f3d2d
